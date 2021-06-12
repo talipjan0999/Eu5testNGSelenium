@@ -6,7 +6,7 @@ Feature: Navigation Menu
     And the user enter sales manager information
     When the user navigates to Fleet, Vehicles
     Then the title should be Vehicles
-  @db
+  @db @murat
   Scenario: Navigating Marketing —- Campaigns
     Given the user is on the login page
     And the user enter sales manager information
@@ -18,4 +18,3 @@ Feature: Navigation Menu
     And the user enter sales manager information
     When the user navigates Activities, Calendar Events
     Then the title should be Calendars
-
