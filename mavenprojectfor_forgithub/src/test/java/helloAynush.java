@@ -5,6 +5,8 @@ public class helloAynush {
         System.out.println("myfirst_meeting is in Augost");
         System.out.println("second maven ");
         System.out.println("local repo publish to rgithub");
+
+
     }
 
 
