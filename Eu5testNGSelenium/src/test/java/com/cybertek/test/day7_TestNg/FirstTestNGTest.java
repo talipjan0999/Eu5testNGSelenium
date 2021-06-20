@@ -14,5 +14,6 @@ public class FirstTestNGTest {
     @Test
     public void tet2(){
         System.out.println("mt second testNgtes");
+        System.out.println("fail");
     }
 }
